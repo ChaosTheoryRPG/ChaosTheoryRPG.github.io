@@ -34,16 +34,18 @@
 3. Choose your **number,** from **2** to **5**. A low number means you’re better at **CHAOS** (intuition; survival; speeches; quick thinking; wild, passionate action). A high number means you’re better at **THEORY** (science; technology; rationality; planning; calm, precise action). 
 4. Give your character a **cool dinosaur adventure name.**
 
-**You have:**
+#### You have:
 - **a radio,** that works most of the time
 - **a park map,** whose accuracy is in doubt
 - **an instant camera,** with limited film
 - **a park badge,** which should let you through some doors
 - **a flashlight,** with new-ish batteries
 
-**Player goal:** Get your character involved in some crazy dino survival adventures and try to make the best of them.
+#### Player goal:
+Get your character involved in some crazy dino survival adventures and try to make the best of them.
 
-**Character goal:** Choose one or create your own:
+#### Character goal:
+Choose one or create your own:
   - **See Dinos Up Close**
   - **Kill Dinos**
   - **Enjoy Your Vacation**
@@ -60,6 +62,7 @@ As a group, pick two strengths for your Tour Vehicle:
   - **Well-Armed**
   - **All-Terrain**
   - **Amphibious**
+
 Also pick one problem:
   - **Fuel Hog** (always runs out of gas)
   - **Used First-Aid Kit** (just like, a few bandaids and a tongue-depressor)
@@ -87,6 +90,48 @@ Roll your dice and compare each die result to your **number.**
   - What/who caused this?
   
 You can change your action if you want to, then roll again.
-Helping: If you want to help someone else who’s rolling, say how you try to help them, and make a roll. If you succeed, give them +1d.
 
+#### Helping:
+If you want to help someone else who’s rolling, say how you try to help them, and make a roll. If you succeed, give them **+1d.**
 
+### GM: CREATE A DINO ADVENTURE
+Roll or choose from the following story points:
+
+#### A BAD ACTOR...
+1. **Dr. Elm,** lead geneticist
+2. **Lee Lewis,** CEO’s sibling
+3. **Lane Geyek,** programmer
+4. **Billie Guin,** dino wrangler
+5. **Jordan Teague,** janitor
+6. **Chef LeSar,** head chef
+
+#### SECRETLY WANTS TO...
+1. **Steal Dino Embryos**
+2. **Cover Up a Security Flaw**
+3. **Make the Tour Interesting**
+4. **Rescue the Dinos**
+5. **Win a Bet**
+6. **Get the Day Off**
+
+#### BUT THEY ACCIDENTALLY...
+1. **Turn Off the Power**
+2. **Open the T-Rex’s Pen**
+3. **Teach the Raptors to Open Cages, Doors, & Jars**
+4. **Create Super Hybrid Dinos**
+5. **Kidnap a Baby T-Rex**
+6. **Cause a Stampede of Brontosauruses**
+
+#### WHICH WILL GET EVERYONE KILLED UNLESS YOU...
+1. **Escape Via the Helipad**
+2. **Escape Via the Boats**
+3. **Get the Dinos to Fight**
+4. **Signal from Radio Tower**
+5. **Stay Hidden Till Daylight**
+6. **Bring Down Their Leader**
+
+### GM: RUN THE GAME
+Play to find out how they survive. Introduce the danger first with evidence that something has gone wrong, then at a distance, and then right up close. Before a threat attacks the characters, show signs that it’s about to happen, then ask them what they do. “The Tyranosaurus Rex turns when it sees the flashlight moving, putting its eye level with the Tour Vehicle. What do you do?”
+
+Call for a roll when the situation is uncertain. Use failures to move action forward. The situation always changes after a roll, for good or ill.
+
+Ask questions and build on the answers.
