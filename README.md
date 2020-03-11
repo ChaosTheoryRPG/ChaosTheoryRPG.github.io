@@ -73,6 +73,7 @@ When you do something risky, roll **1d6** to find out how it goes. Roll **+1d** 
 Roll your dice and compare each die result to your **number.**
 
 > **⤊** - If you’re using **CHAOS** (survival, passion), you want to roll **above your number.**
+>
 > **⤋** - If you’re using **THEORY** (planning, reason), you want to roll **below your number.**
 
 **0 - If none of your dice succeed,** it goes wrong. The GM says how things get worse somehow.
