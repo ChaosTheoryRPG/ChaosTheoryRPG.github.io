@@ -9,7 +9,7 @@
 > _CHAOS THEORY RPG (v1.0) by Ender Smith, Aubrey Dangel, &amp; Julia Rutledge is a Jurassic Park-inspired homebrew for [LASERS &amp; FEELINGS: THE DOUBLECLICKS TRIBUTE RPG (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you can support on [Patreon](https://www.patreon.com/johnharper)._
 
 ## Downloads
-[Download 1-Page PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Chaos%20Theory%20(v1.0).pdf)
+- [Download 1-Page PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Chaos%20Theory%20(v1.0).pdf)
 
 ## Rules
 > _(The core ruleset is taken pretty directly from [LASERS &amp; FEELINGS (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you should seriously consider supporting on [Patreon](https://www.patreon.com/johnharper).)_
@@ -64,4 +64,26 @@ Also pick one problem:
   - **Fuel Hog** (always runs out of gas)
   - **Used First-Aid Kit** (just like, a few bandaids and a tongue-depressor)
   - **Faulty Ignition** (doesn’t always start up the first time)
+
+### ROLLING THE DICE
+When you do something risky, roll **1d6** to find out how it goes. Roll **+1d** if you’re prepared and **+1d** if you’re an expert. (The GM tells you how many dice to roll based on your character and the situation.)
+Roll your dice and compare each die result to your **number.**
+
+   **⤊** If you’re using **CHAOS** (survival, passion), you want to roll **above your number.**
+
+   **⤋** If you’re using **THEORY** (planning, reason), you want to roll **below your number.**
+
+  **0 If none of your dice succeed,** it goes wrong. The GM says how things get worse somehow.
+    
+  **1 If one die succeeds,** you barely manage it. The GM inflicts a complication, harm, or cost.
+
+If two dice succeed, you do it well. Good job!
+If three dice succeed, you get a critical success! 
+The GM tells you some extra effect you get.
+If you roll your number exactly, you get CHAOS THEORY!
+You get a special insight into what’s going on. Ask the GM a question, and they’ll answer you honestly. Some good questions:
+What should I be on the lookout for? What’s the best way to ____? What/who caused this?
+You can change your action if you want to, then roll again.
+Helping: If you want to help someone else who’s rolling, say how you try to help them, and make a roll. If you succeed, give them +1d.
+
 
