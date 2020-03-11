@@ -11,6 +11,7 @@
 ## Downloads
 - [Download 1-Page PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0).pdf)
 - [Download Mobile-Friendly PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0)%20-%20(Mobile%20Friendly).pdf)
+- [Download Mobile-Friendly Continuous PNG](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Mobile%20Friendly%20PNGs/Chaos%20Theory%20(v1.0)%20-%20(Mobile%20Friendly)%20-%20Continuous.png)
 - Download Twitter-Friendly PNGs
     - [Page 1](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Mobile%20Friendly%20PNGs/Chaos%20Theory%20(v1.0)%20-%20(Mobile%20Friendly)%20-%20Page%201.png)
     - [Page 2](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Mobile%20Friendly%20PNGs/Chaos%20Theory%20(v1.0)%20-%20(Mobile%20Friendly)%20-%20Page%202.png)
