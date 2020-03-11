@@ -10,7 +10,14 @@
 
 ## Downloads
 - [Download 1-Page PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0).pdf)
-- [Download Mobile-Friendly PDF]()
+- [Download Mobile-Friendly PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0)%20-%20(Mobile%20Friendly).pdf)
+- Download Twitter-Friendly PNGs
+    - Page 1
+    - Page 2
+    - Page 3
+    - Page 4
+    - Page 5
+    - Page 6
 
 ## Rules
 > _(The core ruleset is taken pretty directly from [LASERS &amp; FEELINGS (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you should seriously consider supporting on [Patreon](https://www.patreon.com/johnharper).)_
