@@ -9,7 +9,8 @@
 > _CHAOS THEORY RPG (v1.0) by Ender Smith, Aubrey Dangel, &amp; Julia Rutledge is a Jurassic Park-inspired homebrew for [LASERS &amp; FEELINGS: THE DOUBLECLICKS TRIBUTE RPG (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you can support on [Patreon](https://www.patreon.com/johnharper)._
 
 ## Downloads
-- [Download 1-Page PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Chaos%20Theory%20(v1.0).pdf)
+- [Download 1-Page PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0).pdf)
+- [Download Mobile-Friendly PDF]()
 
 ## Rules
 > _(The core ruleset is taken pretty directly from [LASERS &amp; FEELINGS (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you should seriously consider supporting on [Patreon](https://www.patreon.com/johnharper).)_
