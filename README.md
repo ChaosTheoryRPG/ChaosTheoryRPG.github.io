@@ -9,7 +9,15 @@
 > _CHAOS THEORY RPG (v1.0) by Ender Smith, Aubrey Dangel, &amp; Julia Rutledge is a Jurassic Park-inspired homebrew for [LASERS &amp; FEELINGS: THE DOUBLECLICKS TRIBUTE RPG (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you can support on [Patreon](https://www.patreon.com/johnharper). Both games are licensed under a [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)._
 
 ## Downloads
-- [Download 1-Page PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0).pdf)
+- [Chaos Theory RPG - One-Page, Printable (PDF)](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0).pdf)
+- [Chaos Theory RPG - Pagified, Mobile-Friendly (PDF)](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0)%20-%20(Mobile%20Friendly).pdf)
+- Chaos Theory RPG - Pagified Images, Social-Media-Friendly (PNG)
+  - [Page 1](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20RPG%20-%20Twitter%201.png)
+  - [Page 2](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20RPG%20-%20Twitter%202.png)
+  - [Page 3](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20RPG%20-%20Twitter%203.png)
+  - [Page 4](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20RPG%20-%20Twitter%204.png)
+  - [Page 5](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20RPG%20-%20Twitter%205.png)
+  - [Page 6](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20RPG%20-%20Twitter%206.png)
 
 ## Rules
 > _(The core ruleset is taken pretty directly from [LASERS &amp; FEELINGS (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you should seriously consider supporting on [Patreon](https://www.patreon.com/johnharper).)_
