@@ -6,7 +6,7 @@
 
 **Welcome... to Dinosaur Island Park!**
 
-> _CHAOS THEORY RPG (v1.0) by Ender Smith, Aubrey Dangel, &amp; Julia Rutledge is a Jurassic Park-inspired homebrew for [LASERS &amp; FEELINGS: THE DOUBLECLICKS TRIBUTE RPG (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you can support on [Patreon](https://www.patreon.com/johnharper)._
+> _CHAOS THEORY RPG (v1.0) by Ender Smith, Aubrey Dangel, &amp; Julia Rutledge is a Jurassic Park-inspired homebrew for [LASERS &amp; FEELINGS: THE DOUBLECLICKS TRIBUTE RPG (v1.2)](http://www.onesevendesign.com/laserfeelings/) by John Harper, whom you can support on [Patreon](https://www.patreon.com/johnharper). Both games are licensed under a [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)_
 
 ## Downloads
 - [Download 1-Page PDF](https://github.com/ChaosTheoryRPG/ChaosTheoryRPG.github.io/raw/master/Downloads/Chaos%20Theory%20(v1.0).pdf)
